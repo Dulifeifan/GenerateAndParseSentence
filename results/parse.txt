@@ -1,0 +1,1 @@
+(ROOT  (S (NP (Det every) (Noun floor)) (VP (Verb understood) (NP (Det a) (Noun president)))) .)
